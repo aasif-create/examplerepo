@@ -1,0 +1,2 @@
+# examplerepo
+CREATING A REPO TO CONNECT WITH VS CODE
